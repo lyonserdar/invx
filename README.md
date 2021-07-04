@@ -1,4 +1,8 @@
 # invx
+<<<<<<< HEAD
+=======
+This is an inventory management app. Powered by Flask, Svelte, and Postgres.
+>>>>>>> 368827b1f2e38d082223285bb626da2828d9464f
 
 This is an inventory management app.
 
